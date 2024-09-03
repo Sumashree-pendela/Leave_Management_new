@@ -57,7 +57,5 @@ The Leave Management System is designed to streamline the process of managing em
 ## Pending Functionalities
 
 The following features are still under development:
-
 - **Date Validation**: Implement date validation to ensure leave requests do not overlap with weekends or holidays.
 - **Email Notifications**: Set up email notifications to inform users about the status of their leave requests and updates.
-- **Availability Check**: Incorporate an availability check during the leave approval process to ensure leaves can be accommodated.
